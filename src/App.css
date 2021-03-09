@@ -37,4 +37,6 @@ nav a:hover {
   background-color: #FFA101;
 }
 
-
+.card-body p {
+  color: #000000
+}
